@@ -1,1 +1,3 @@
-let number = document.querySelector('.number');
+let string = "";
+let button = document.querySelectorAll('.button');
+Array.button
